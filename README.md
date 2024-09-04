@@ -6,4 +6,4 @@
 <p>CSS</p>
 <p>JavaScript</p>
 <p>Esse é um projeto simples para um sorteio aleatório de números</p>
-<img src="https://github.com/rodolfossilvadev/Sorteador/blob/main/assets/desktop.png?raw=true" alt="img-desktop">
+<img src="https://github.com/rodolfossilvadev/Sorteador/blob/main/assets/desktop.jpg?raw=true" alt="img-desktop">
